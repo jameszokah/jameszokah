@@ -3,12 +3,14 @@
 
 
 
-A Full stack developer from Accra, Ghana.
+A Full stack developer from  Accra, Ghana.
 
 
 💡  I like to explore new trends and learn new technologies.
-<br/>
-🔭 I’m currently working on <a href="https://github.com/jameszokah/zoki-meet" target="_blank">zokivid<a>
+<br />
+🔭 I’m currently working on <a href="https://github.com/jameszokah/zoki-meet" target="_blank">zokivid... 👀<a>
+  <br />
+🌱 I’m currently learning everything 🤣
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark)
 
