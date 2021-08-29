@@ -12,7 +12,7 @@ A Full stack developer from  Accra, Ghana.
   <br />
 🌱 I’m currently learning everything 🤣
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=midnight-purple)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark)
 
 
 <!--
