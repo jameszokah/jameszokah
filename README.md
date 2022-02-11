@@ -8,7 +8,7 @@ A Full stack developer from  Accra, Ghana.
 
 💡  I like to explore new trends and learn new technologies.
 <br />
-🔭 I’m currently working on <a href="https://github.com/jameszokah/yuutube" target="_blank">Yuutube... 👀<a>
+🔭 I’m currently working on <a href="https://github.com/jameszokah/netflix-web" target="_blank">Noflix... 👀<a>
   <br />
 🌱 I’m currently learning everything 🤣
   
