@@ -1,3 +1,4 @@
+
 <img src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866dffbf9d73abe425745d4133f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f54683357616c6c2f6173736574732d63646e2f506572736f6e616c476974687562526561646d652f48616e6447726565742e676966" width="35" alt="Hii..">  Hi, I'm James
 ---
 
@@ -29,3 +30,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+  ## Skills
+- 👨‍💻 TypeScript, JavaScript, Flutter, Nodejs,
+- ⚙️ React, Nextjs, Redux
+- 👁️ SASS, CSS, tailwind, Styled-components
+- 💽 MongoDB  
+  
+  ## Contact
+- [@JamesZokah](https://twitter.com/JamesZokah) on Twitter
