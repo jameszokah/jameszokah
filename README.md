@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 💽 MongoDB  
   
   
-  ![James's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszokah&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=github_dark,show_icons=true)
+  ![James's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszokah&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=000&theme=chartreuse-dark,show_icons=true)
 
   
   ## Contact
