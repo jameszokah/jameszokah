@@ -63,8 +63,9 @@ Here are some ideas to get you started:
 </p>
   
   
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jameszokah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jameszokah" /></a></p><br><br>
-  
   ## Contact
 - [@JamesZokah](https://twitter.com/JamesZokah) on Twitter
+  
+  
+   <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jameszokah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="150" alt="jameszokah" /></a></p><br><br>
