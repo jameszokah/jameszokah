@@ -14,10 +14,6 @@ src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
 
-<p align="left"> <a href="https://github.com/jameszokah"><img src="https://github-profile-trophy.vercel.app/?username=jameszokah&theme=nord&no-bg=true&margin-w=15" alt="jameszokah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/JamesZokah" target="blank"><img src="https://img.shields.io/twitter/follow/JamesZokah?logo=twitter&style=for-the-badge" alt="jameszokah" /></a> </p>
-
 
 💡  I like to explore new trends and learn new technologies.
 <br />
@@ -27,7 +23,8 @@ src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866
   
   ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark)
 
-
+<p align="left"> <a href="https://twitter.com/JamesZokah" target="blank"><img src="https://img.shields.io/twitter/follow/JamesZokah?logo=twitter&style=for-the-badge" alt="jameszokah" /></a> </p>
+  
 <!--
 **jameszokah/jameszokah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,6 +49,8 @@ Here are some ideas to get you started:
   
   
   ![James's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszokah&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=000&theme=chartreuse-dark,show_icons=true)
+  
+  <p align="left"> <a href="https://github.com/jameszokah"><img src="https://github-profile-trophy.vercel.app/?username=jameszokah&theme=nord&no-bg=true&margin-w=15" alt="jameszokah" /></a> </p>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
