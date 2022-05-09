@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">I am enthusiastic software developer, and I work as a Full stack developer from  Accra, Ghana.</h3>
+<h3 align="center">I am an enthusiastic software developer, and I work as a Full-stack developer from  Accra, Ghana.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
 
@@ -51,6 +51,16 @@ Here are some ideas to get you started:
   
   ![James's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszokah&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=000&theme=chartreuse-dark,show_icons=true)
 
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/jameszokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jameszokah" height="30" width="40" /></a>
+<a href="https://twitter.com/JamesZokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameszokah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/james-zokah-860559196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jameszokah" height="30" width="40" /></a>
+<a href="https://fb.com/james.zokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james.zokah" height="30" width="40" /></a>
+<a href="https://instagram.com/jam_kyn_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jam_kyn_z" height="30" width="40" /></a>
+<a href="https://medium.com/@jameszokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jameszokah" height="30" width="40" /></a>
+
+</p>
   
   ## Contact
 - [@JamesZokah](https://twitter.com/JamesZokah) on Twitter
