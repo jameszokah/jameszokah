@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="right">
   <img src="https://raw.githubusercontent.com/jameszokah/jameszokah/master/name.svg" height="30" alt="James Zokah" />
 </h1>
 
