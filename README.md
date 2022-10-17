@@ -42,10 +42,10 @@ Here are some ideas to get you started:
   
   
   ## Skills
-- 👨‍💻 TypeScript, JavaScript, Flutter, Nodejs,
-- ⚙️ Reactjs, Nextjs, Redux
+- 👨‍💻 TypeScript, JavaScript, Python, Flutter, Nodejs,, Rust
+- ⚙️ Reactjs, Nextjs, Redux, Recoil
 - 👁️ tailwind, Styled-components, SASS, CSS
-- 💽 MongoDB  
+- 💽 MongoDB, Postgres  
   
   
   ![James's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameszokah&hide=html&hide_title=false&hide_border=false&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=000&theme=chartreuse-dark,show_icons=true)
