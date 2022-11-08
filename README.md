@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866
 
 💡  I like to explore new trends and learn new technologies.
 <br />
-🔭 I’m currently working on <a href="https://github.com/jameszokah/netflix-web" target="_blank">Noflix... 👀<a>
+🔭 I’m currently working on <a href="https://github.com/jameszokah/healthjoe" target="_blank">Health_joe... 👀<a>
   <br />
 🌱 I’m currently learning everything 🤣
   
