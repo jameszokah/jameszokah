@@ -10,7 +10,7 @@ src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866
 
 
 
-<h3 align="center">I am an enthusiastic software developer, and I work as a Full-stack developer from  Accra, Ghana.</h3>
+<h3 align="center">Highly skilled and experienced full stack software developer with 4+ years of experience in developing and implementing AI and machine learning solutions. Strong analytical and problem-solving skills, with a passion for staying up-to-date with the latest technologies and trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
 
