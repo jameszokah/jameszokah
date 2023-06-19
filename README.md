@@ -7,11 +7,12 @@
 src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866dffbf9d73abe425745d4133f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f54683357616c6c2f6173736574732d63646e2f506572736f6e616c476974687562526561646d652f48616e6447726565742e676966" width="35" alt="Hii..">  Hi, I'm James 
 </h2>
 
+ <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">&nbsp;&nbsp;<div align="center">
 
 
+<h3 align="center">Highly skilled and experienced full-stack software developer with 4+ years of experience in developing and implementing AI and machine learning solutions. Strong analytical and problem-solving skills, with a passion for staying up-to-date with the latest technologies and trends.</h3>
 
-<h3 align="center">Highly skilled and experienced full stack software developer with 4+ years of experience in developing and implementing AI and machine learning solutions. Strong analytical and problem-solving skills, with a passion for staying up-to-date with the latest technologies and trends.</h3>
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
 
 
