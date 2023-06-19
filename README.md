@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/4cc9a57bfd6f608470e752bb84f004b658b65866
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
-
+<br />
 
 💡  I like to explore new trends and learn new technologies.
 <br />
