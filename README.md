@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=🧠%20I%20build%20silence%20into%20systems&section=header&reversal=true&animation=fadeIn&fontSize=60)
 <h1 align="right">
   <img src="https://raw.githubusercontent.com/jameszokah/jameszokah/master/name.svg" height="30" alt="James Zokah" />
 </h1>
