@@ -1,17 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=🧠%20I%20build%20silence%20into%20systems&section=header&reversal=true&animation=fadeIn&fontSize=60)
-<h1 align="right">
-  <img src="https://raw.githubusercontent.com/jameszokah/jameszokah/master/name.svg" height="30" alt="James Zokah" />
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=🧠%20I%20build%20silence%20into%20systems&section=footer&reversal=true&animation=fadeIn&fontSize=60)
 
-<h2 align="center" dir="auto">
-<img
-src="/hand.png" width="50" alt="Hii..">  Hi, I'm James 
-</h2>
+---
+
+### 🧬 About Me
+
+> *“Not a problem solver—  
+> I reform the lens.”*
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jameszokah/jameszokah/master/name.svg" height="30" alt="James Zokah" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/hand.png" width="35" alt="Hi.." />
+  &nbsp;
+  <strong>Hi, I'm James</strong>
+</p>
+
+
 
  <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">&nbsp;&nbsp;<div align="center">
 
 
-<h3 align="center">Highly skilled and experienced full-stack software developer with 4+ years of experience in developing and implementing AI and machine learning solutions. Strong analytical and problem-solving skills, with a passion for staying up-to-date with the latest technologies and trends.</h3>
+
+I’m a **full-stack developer** blending tech with thought. 4+ years exploring digital ecosystems, crafting applications powered by AI, ML, and human-centered design.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameszokah&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
@@ -26,6 +38,9 @@ src="/hand.png" width="50" alt="Hii..">  Hi, I'm James
   ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 
 <p align="left"> <a href="https://twitter.com/JamesZokah" target="blank"><img src="https://img.shields.io/twitter/follow/JamesZokah?logo=twitter&style=for-the-badge" alt="jameszokah" /></a> </p>
+
+
+<h3 align="left">🕳️ I architect in dimensions most won’t name.</h3>
   
 <!--
 **jameszokah/jameszokah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
