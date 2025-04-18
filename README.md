@@ -35,7 +35,12 @@ I’m a **full-stack developer** blending tech with thought. 4+ years exploring 
   <br />
 🌱 I’m currently learning everything 🤣
   
-  ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
+  ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;<img src="./programmer.gif" alt="programmer" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" height="250px" />
+
+  <!---
+    
+  ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameszokah&show_icons=true&theme=chartreuse-dark) &nbsp;&nbsp;
+  --->
 
 <p align="left"> <a href="https://twitter.com/JamesZokah" target="blank"><img src="https://img.shields.io/twitter/follow/JamesZokah?logo=twitter&style=for-the-badge" alt="jameszokah" /></a> </p>
 
@@ -58,6 +63,7 @@ Here are some ideas to get you started:
 -->
   
   
+
   ## Skills
 - 👨‍💻 TypeScript, JavaScript, Python, Flutter, Nodejs,, Rust
 - ⚙️ Reactjs, Nextjs, Redux, Recoil
@@ -69,7 +75,8 @@ Here are some ideas to get you started:
   
   <p align="left"> <a href="https://github.com/jameszokah"><img src="https://github-profile-trophy.vercel.app/?username=jameszokah&theme=nord&no-bg=true&margin-w=15" alt="jameszokah" /></a> </p>
 
-  # Connect with me: <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
+  # Connect with me:
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
 
 <p align="left">
 <a href="https://dev.to/jameszokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jameszokah" height="30" width="40" /></a>
